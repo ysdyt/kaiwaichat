@@ -1,3 +1,3 @@
-# Yattecast
+# 界隈.chat
 
-https://r7kamura.github.io/yattecast/
+https://kaiwai.chat

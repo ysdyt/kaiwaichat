@@ -1,4 +1,8 @@
 actors:
+  ysdyt:
+    image_url: /images/actors/yutatatatata.jpg
+    name: ysdyt
+    url: https://twitter.com/yutatatatata
   alice:
     image_url: /images/actors/alice.png
     name: alice
@@ -7,10 +11,10 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: 界隈.chat
+description: 気になる界隈について話すpodcast番組
+description_long: 吉田の気になる界隈について話すpodcast番組。不定期配信。
+email: kaiwaichat@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +24,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: 界隈chat
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: data science,AI
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: 界隈.chat
+url: https://kaiwai.chat
