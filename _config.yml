@@ -12,8 +12,8 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: 界隈.chat
-description: 気になる界隈について話すpodcast番組
-description_long: 吉田の気になる界隈について話すpodcast番組。不定期配信。
+description: いろんな界隈について話すpodcast番組
+description_long: いろんな界隈について話すpodcast番組。不定期配信。
 email: kaiwaichat@gmail.com
 exclude:
   - docker
@@ -25,7 +25,7 @@ exclude:
   - vendor
 google_analytics:
 hashtag: 界隈chat
-itunes_podcast_url:
+itunes_podcast_url: https://podcasts.apple.com/us/podcast/界隈-chat/id1680389809
 keywords: data science,AI
 language: ja
 markdown: kramdown
