@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/yutatatatata.jpg
     name: ysdyt
     url: https://twitter.com/yutatatatata
+  Sorami Hisamoto:
+    image_url: /images/actors/sorami.jpg
+    name: Sorami Hisamoto
+    url: https://twitter.com/sorami
   alice:
     image_url: /images/actors/alice.png
     name: alice
@@ -24,7 +28,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: 界隈chat
+hashtag: kaiwaichat
 itunes_podcast_url: https://podcasts.apple.com/us/podcast/界隈-chat/id1680389809
 keywords: data science,AI
 language: ja
