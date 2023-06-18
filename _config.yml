@@ -3,18 +3,10 @@ actors:
     image_url: /images/actors/yutatatatata.jpg
     name: ysdyt
     url: https://twitter.com/yutatatatata
-  Sorami Hisamoto:
+  sorami:
     image_url: /images/actors/sorami.jpg
     name: Sorami Hisamoto
     url: https://twitter.com/sorami
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組。不定期配信。
