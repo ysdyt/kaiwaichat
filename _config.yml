@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/sorami.jpg
     name: Sorami Hisamoto
     url: https://twitter.com/sorami
+  tenjimn:
+    image_url: /images/actors/tenjimn.jpeg
+    name: tenjimn
+    url: https://twitter.com/tenjimn
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組。不定期配信。
