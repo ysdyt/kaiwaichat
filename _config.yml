@@ -11,6 +11,14 @@ actors:
     image_url: /images/actors/tenjimn.jpeg
     name: tenjimn
     url: https://twitter.com/tenjimn
+  _ryo_astro:
+    image_url: /images/actors/_ryo_astro.jpeg
+    name: 佐々木亮
+    url: https://twitter.com/_ryo_astro
+  tatsuki_2022:
+    image_url: /images/actors/tatsuki_2022.jpeg
+    name: たっちゃん
+    url: https://twitter.com/tatsuki_2022
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組。不定期配信。
