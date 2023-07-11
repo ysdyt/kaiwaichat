@@ -11,8 +11,8 @@ actors:
     image_url: /images/actors/tenjimn.jpeg
     name: tenjimn
     url: https://twitter.com/tenjimn
-  _ryo_astro:
-    image_url: /images/actors/_ryo_astro.jpeg
+  ryo_astro:
+    image_url: /images/actors/ryo_astro.jpeg
     name: 佐々木亮
     url: https://twitter.com/_ryo_astro
   tatsuki_2022:
