@@ -19,6 +19,10 @@ actors:
     image_url: /images/actors/tatsuki_2022.jpeg
     name: たっちゃん
     url: https://twitter.com/tatsuki_2022
+  srt_taka:
+    image_url: /images/actors/srt_taka.jpeg
+    name: Takayuki Saruta
+    url: https://twitter.com/srt_taka
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組。不定期配信。
