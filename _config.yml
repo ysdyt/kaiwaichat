@@ -25,7 +25,7 @@ actors:
     url: https://twitter.com/srt_taka
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
-description_long: いろんな界隈について話すpodcast番組。不定期配信。
+description_long: いろんな界隈について話すpodcast番組
 email: kaiwaichat@gmail.com
 exclude:
   - docker
