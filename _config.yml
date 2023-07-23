@@ -23,6 +23,10 @@ actors:
     image_url: /images/actors/srt_taka.jpeg
     name: Takayuki Saruta
     url: https://twitter.com/srt_taka
+  karaage0703:
+    image_url: /images/actors/karaage0703.jpeg
+    name: からあげ
+    url: https://twitter.com/karaage0703
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組
