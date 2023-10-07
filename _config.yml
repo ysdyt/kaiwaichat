@@ -27,6 +27,10 @@ actors:
     image_url: /images/actors/karaage0703.jpeg
     name: からあげ
     url: https://twitter.com/karaage0703
+  Furukawa:
+    image_url: /images/actors/Yfuru2454.jpeg
+    name: Furukawa
+    url: https://twitter.com/Yfuru2454
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組
