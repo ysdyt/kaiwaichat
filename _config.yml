@@ -31,6 +31,10 @@ actors:
     image_url: /images/actors/Yfuru2454.jpg
     name: Furukawa
     url: https://twitter.com/Yfuru2454
+  asano:
+    image_url: /images/actors/nash_efp.jpg
+    name: asano
+    url: https://twitter.com/nash_efp
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組
