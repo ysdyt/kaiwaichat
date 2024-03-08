@@ -35,6 +35,10 @@ actors:
     image_url: /images/actors/nash_efp.jpg
     name: asano
     url: https://twitter.com/nash_efp
+  PimSato:
+    image_url: /images/actors/PimSato.jpg
+    name: ハッピー佐藤
+    url: https://twitter.com/PimSato
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組
