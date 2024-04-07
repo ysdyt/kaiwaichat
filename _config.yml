@@ -39,6 +39,10 @@ actors:
     image_url: /images/actors/PimSato.jpg
     name: ハッピー佐藤
     url: https://twitter.com/PimSato
+  dhirooka:
+    image_url: /images/actors/daigo_hirooka.jpeg
+    name: dhirooka
+    url: https://twitter.com/daigo_hirooka
 author: 界隈.chat
 description: いろんな界隈について話すpodcast番組
 description_long: いろんな界隈について話すpodcast番組
